@@ -1,0 +1,91 @@
+{
+  "personal_info": {
+    "name": "RACHEL FRANK",
+    "email": "info@resumekraft.com",
+    "phone": "0 202-555-0120",
+    "location": "Chicago, Illinois, US"
+  },
+  "education": [
+    {
+      "institution": "San Jose State University",
+      "degree": "Bachelor of Engineering",
+      "field": "Electronics and Communication",
+      "dates": "Sep 2010 - Jun 2014",
+      "location": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Wipro Technologies",
+      "position": "Senior Project Engineer",
+      "dates": "Jan 2018 - Present",
+      "location": "",
+      "responsibilities": [
+        "Working as a Python developer in Test-suite Scheduler Application. | have developed python package for HPALM functionality using REST APIs querry.",
+        "Developed the recovery framework for Test Bench Crashes which has improved the TestBench Utilization for Software-Build Execution.",
+        "Automated the JIRA Tasks such as Issue creation, Check for Duplicate Tickets.",
+        "Developed Selenium python based automation framework for enabling CICD for Application",
+        "Automated the task for finding any duplicate test cases in test rail which has resulted in decrease the manual effort and improved requirement-test case mapping"
+      ]
+    },
+    {
+      "company": "Wipro Technologies",
+      "position": "Project Engineer",
+      "dates": "Jul 2015 - Dec 2017",
+      "location": "",
+      "responsibilities": [
+        "Developed the test scripts to test the infotainmnet system.",
+        "Developed the Test Automation framework for Android-Auto, AppleCarplay, In_Vehicle-Software-Update Feature Testing."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": ""
+    },
+    {
+      "name": "Automation",
+      "proficiency": ""
+    },
+    {
+      "name": "Selenium",
+      "proficiency": ""
+    },
+    {
+      "name": "C++ programming",
+      "proficiency": ""
+    },
+    {
+      "name": "Machine learning",
+      "proficiency": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Stock Price Prediction",
+      "description": "",
+      "technologies": [],
+      "dates": ""
+    },
+    {
+      "name": "Credit card fraud detection",
+      "description": "",
+      "technologies": [],
+      "dates": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Embedded system",
+      "issuer": "Vector India",
+      "date": "2015-06-05"
+    }
+  ],
+  "meta": {
+    "filename": "File (2).pdf",
+    "file_size": 225303,
+    "file_type": "application/pdf",
+    "upload_date": "2025-03-07T17:40:56.763666"
+  }
+}

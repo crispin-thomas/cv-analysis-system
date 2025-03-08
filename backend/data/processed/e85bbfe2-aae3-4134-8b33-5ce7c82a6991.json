@@ -1,0 +1,75 @@
+{
+  "personal_info": {
+    "name": "Diann Kupha",
+    "email": "diannkupha@gmail.com",
+    "phone": "(938) 032 7933",
+    "location": "North Arjun, New Jersey"
+  },
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science with a Concentration in Python Programming",
+      "dates": "2017 - 2021",
+      "location": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Marks, Miller and Runte",
+      "position": "Python Developer",
+      "dates": "March 2023 - Present",
+      "location": "",
+      "responsibilities": [
+        "Developed and maintained various Python applications using Flask, Django, and PostgreSQL.",
+        "Implemented a suite of automated tests for a Python-based web application using Pytest.",
+        "Developed a RESTful API using Python and the Flask microframework."
+      ]
+    },
+    {
+      "company": "Fritsch, Bashirian and Steuber",
+      "position": "Python Developer",
+      "dates": "May 2021 - February 2023",
+      "location": "",
+      "responsibilities": [
+        "Used Python to develop and optimize data pipelines for ETL processes.",
+        "Utilized object-oriented programming and design patterns in Python to create efficient and maintainable solutions.",
+        "Developed a GUI application using Python and Tkinter."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Object-Oriented",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Data Structures",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Web Development",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Machine Learning",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Automation",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Algorithms",
+      "proficiency": "Expert"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "meta": {
+    "filename": "File (1).pdf",
+    "file_size": 180606,
+    "file_type": "application/pdf",
+    "upload_date": "2025-03-07T17:35:16.765613"
+  }
+}
