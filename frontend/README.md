@@ -20,7 +20,7 @@ The CV Analysis System provides an intuitive interface for users to upload, quer
 
 2. **Upload CV's UI**:
    - Users can upload CVs in various formats (PDF, DOCX, etc.).
-   - The system provides a simple drag-and-drop interface, making it easy for users to add their CVs.
+   - The system provides a simple interface, making it easy for users to add their CVs.
 
 3. **Manage CV's UI**:
    - Once a CV is uploaded, it can be managed from this screen.
