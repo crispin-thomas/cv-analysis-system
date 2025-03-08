@@ -1,0 +1,73 @@
+{
+  "personal_info": {
+    "name": "Nadin Friedberger",
+    "email": "hello@kickresume.com",
+    "phone": "555-555-5555",
+    "location": "Pasadena, CA, United States"
+  },
+  "education": [
+    {
+      "institution": "California Institute of Technology",
+      "degree": "Computer Science",
+      "field": "",
+      "dates": "2013 - 2017",
+      "location": "Pasadena, CA, United States"
+    },
+    {
+      "institution": "Brunchman High School",
+      "degree": "Gymnasium",
+      "field": "",
+      "dates": "2009 - 2013",
+      "location": "Berlin, Germany"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "LUT Digital, Inc.",
+      "position": "Python Developer",
+      "dates": "June 2017 - June 2020",
+      "location": "Pasadena, CA, United States",
+      "responsibilities": [
+        "Developed web application back end components and facilitated client communication to identify needs and goals.",
+        "Improved data protection and security measures, creating innovative user information solutions.",
+        "Maintained large databases, configured servers, and collaborated with colleagues to reduce software maintenance expenses - achieved a 15% cost reduction within one year.",
+        "Trained and supervised new employees, offering technical support to clients and coworkers.",
+        "Recognized as the Employee of the Year for consistently meeting and exceeding all assigned goals and objectives."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": ""
+    },
+    {
+      "name": "HTML",
+      "proficiency": ""
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": ""
+    },
+    {
+      "name": "Selenium",
+      "proficiency": ""
+    },
+    {
+      "name": "TestComplete",
+      "proficiency": ""
+    },
+    {
+      "name": "Appium",
+      "proficiency": ""
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "meta": {
+    "filename": "File (4).pdf",
+    "file_size": 229507,
+    "file_type": "application/pdf",
+    "upload_date": "2025-03-08T02:49:40.050036"
+  }
+}
