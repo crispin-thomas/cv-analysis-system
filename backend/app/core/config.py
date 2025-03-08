@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     OPENAI_MODEL: str = "gpt-4o"
     
     # OCR settings
-    TESSERACT_PATH: str = "C:\Program Files\Tesseract-OCR\/tesseract.exe"  # Default Linux path
+    TESSERACT_PATH: str = "C:\Program Files\Tesseract-OCR\/tesseract.exe"  # Default path
     
     # Storage settings
     STORAGE_DIR: str = "data/processed"
