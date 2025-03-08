@@ -77,7 +77,8 @@ Once the server is running, you can access the API documentation at:
 
 Run the test suite with:
 ```
-pytest backend -W ignore::DeprecationWarning
+cd backend
+pytest -W ignore::DeprecationWarning
 ```
 
 ## Example Queries
