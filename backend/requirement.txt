@@ -10,7 +10,6 @@ pillow
 anthropic
 openai
 tenacity
-streamlit
 requests
 python-dotenv
 pytest
