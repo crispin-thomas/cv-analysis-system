@@ -14,7 +14,7 @@ A complete system for processing, analyzing, and querying multiple CV documents 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/cv-analysis-system.git
+   git clone https://github.com/crispin-thomas/cv-analysis-system.git
    cd cv-analysis-system
    ```
 
@@ -24,37 +24,46 @@ A complete system for processing, analyzing, and querying multiple CV documents 
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. Install dependencies:
+3. Install backend dependencies:
    ```
-   pip install -r requirements.txt
+   Ubuntu/macOS - pip install -r backend/requirements.txt 
+   Windows - pip install -r .\backend\requirement.txt
    ```
 
-4. Install Tesseract OCR:
+4. Install frontend dependencies:
+   ```
+   cd frontend
+   npm install
+   ```
+
+5. Install Tesseract OCR:
    - On Ubuntu/Debian: `sudo apt-get install tesseract-ocr`
    - On macOS: `brew install tesseract`
    - On Windows: Download and install from [https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
 
-5. Set up environment variables:
+6. Set up environment variables:
    ```
-   cp .env.example .env
+   cp backend/.env.example backend/.env
    ```
-   Edit the `.env` file with your API keys and settings.
+   Edit the `backend/.env` file with your API keys and settings.
 
 ## Usage
 
 1. Start the API server:
    ```
+   cd backend
    uvicorn app.main:app --reload
    ```
 
-2. Start the Streamlit interface:
+2. Start the Vite frontend:
    ```
-   streamlit run frontend.py
+   cd frontend
+   npm run dev
    ```
 
-3. Open your browser to the URL shown by Streamlit (typically http://localhost:8501)
+3. Open your browser to the URL shown by Vite (typically http://localhost:5173)
 
-4. Upload CV documents using the sidebar interface.
+4. Upload CV documents using the interface.
 
 5. Query the system using natural language in the chat interface.
 
@@ -68,7 +77,7 @@ Once the server is running, you can access the API documentation at:
 
 Run the test suite with:
 ```
-pytest
+pytest backend
 ```
 
 ## Example Queries
