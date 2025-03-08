@@ -1,7 +1,7 @@
-# CV Analysis System Frontend
+# CV Analysis System
 
 ## Overview
-The CV Analysis System Frontend provides an intuitive interface for users to upload, query, and manage their CVs. The system is designed to facilitate the seamless uploading of CV documents, querying them based on specific criteria, and managing the CVs once they're uploaded. This frontend is a key part of the CV analysis system, enabling users to interact with the system easily and effectively.
+The CV Analysis System provides an intuitive interface for users to upload, query, and manage their CVs. The system is designed to facilitate the seamless uploading of CV documents, querying them based on specific criteria, and managing the CVs once they're uploaded. This frontend is a key part of the CV analysis system, enabling users to interact with the system easily and effectively.
 
 ---
 
